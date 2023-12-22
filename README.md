@@ -1,4 +1,4 @@
 # MyFirstIfcApp
-Building First IFC Webapp
+Building First IFC App
 <br>
 Author - Shobhit Suthar
